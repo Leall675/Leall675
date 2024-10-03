@@ -19,7 +19,9 @@
 
 
 <!-- About Me -->
-## About Me
+<h2 align="center">
+  About Me
+</h2>
 
 I am a software quality engineer, with a degree in Systems Analysis and Development, currently focusing on functional test automation and API testing. I also like studying Front-end development. My skills include:
 
@@ -30,7 +32,9 @@ I am a software quality engineer, with a degree in Systems Analysis and Developm
 I'm always eager to learn new technologies and take on challenging projects that push the boundaries of what's possible.
 
 <!-- GitHub Stats -->
-## GitHub Stats
+<h2 align="center">
+  GitHub Stats
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leall675&show_icons=true&theme=dark" alt="GitHub Stats"/>
