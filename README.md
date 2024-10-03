@@ -15,7 +15,7 @@
 <!-- About Me -->
 ## About Me
 
-I am a software quality engineer, majoring in Systems Analysis and Development, currently focusing on functional test automation and API testing. I also like studying Front-end development. My skills include:
+I am a software quality engineer, with a degree in Systems Analysis and Development, currently focusing on functional test automation and API testing. I also like studying Front-end development. My skills include:
 
 - **Languages:** Python, Ruby, Javascript
 - **Frameworks:** React, RobotFramework
