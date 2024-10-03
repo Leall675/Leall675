@@ -1,10 +1,15 @@
 ## Olá !! Me chamo Matheus Leal
 
- <div>
-  <a href="https://github.com/Leall675">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leall675&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leall675&layout=compact&langs_count=16&theme=dark"/>
-</div>
+<!-- GitHub Stats -->
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leall675&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leall675&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
