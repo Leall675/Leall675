@@ -36,13 +36,11 @@ I'm always eager to learn new technologies and take on challenging projects that
   GitHub Stats
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leall675&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leall675&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leall675&show_icons=true&theme=dark" alt="GitHub Stats" style="height: 150px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leall675&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;"/>
+</div>
 
 
 <div style="display: inline_block"><br>
