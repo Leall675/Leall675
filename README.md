@@ -42,7 +42,7 @@ I'm always eager to learn new technologies and take on challenging projects that
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leall675&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;"/>
 </div>
 
-
+<!-- GitHub Icons -->
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Matheus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
