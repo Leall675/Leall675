@@ -25,8 +25,8 @@
 
 I am a software quality engineer, with a degree in Systems Analysis and Development, currently focusing on functional test automation and API testing. I also like studying Front-end development. My skills include:
 
-- **Languages:** Python, Ruby, Javascript
-- **Frameworks:** React, RobotFramework
+- **Languages:** Python, Ruby, Javascript, Java
+- **Frameworks:** React, RobotFramework, Spring Boot
 - **Others:** Cucumber, Capybara, CI/CD, Git, Appium, Selenium, Postman, HTML, CSS
 
 I'm always eager to learn new technologies and take on challenging projects that push the boundaries of what's possible.
@@ -44,11 +44,11 @@ I'm always eager to learn new technologies and take on challenging projects that
 
 <!-- GitHub Icons -->
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Matheus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Matheus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"">
+  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Matheus-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
