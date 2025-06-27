@@ -3,7 +3,7 @@
 
 <!-- Subtitle -->
 <p align="center">
-  Software QA Engineer | Back-End Developer | Systems analysis and development | QA automation | , Python, Ruby, React, JavaScript
+  Software QA Engineer | Back-End Developer | Systems analysis and development | Java, Python, Ruby, React, JavaScript
 </p>
 
 <!-- Badges -->
