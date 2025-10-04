@@ -1,9 +1,9 @@
-<!-- Title -->
-<h1 align="center">Hi there, I'm Matheus Leal! 👋</h1>
+<!-- Título -->
+<h1 align="center">Olá, eu sou Matheus Leal! 👋</h1>
 
-<!-- Subtitle -->
+<!-- Subtítulo -->
 <p align="center">
-  Software QA Engineer | Back-End Developer | Systems analysis and development | Java, Python, Ruby, React, JavaScript
+  Desenvolvedor Back-End | Análise e Desenvolvimento de Sistemas | Java, Spring Boot, Oracle SQL, MongoDB, Kafka, RabbitMQ
 </p>
 
 <!-- Badges -->
@@ -17,38 +17,44 @@
   </a>
 </p>
 
-
-<!-- About Me -->
+<!-- Sobre Mim -->
 <h2 align="center">
-  About Me
+  Sobre Mim
 </h2>
 
-I am a software quality engineer, with a degree in Systems Analysis and Development, currently focusing on functional test automation and API testing. I also like studying Front-end development. My skills include:
+Sou **Desenvolvedor Back-End** com formação em Análise e Desenvolvimento de Sistemas.  
+Atualmente, trabalho construindo **microserviços escaláveis e de alta performance** com Java e Spring Boot, integrando bancos de dados e sistemas de mensageria para entregar soluções robustas.  
 
-- **Languages:** Python, Ruby, Javascript, Java
-- **Frameworks:** React, RobotFramework, Spring Boot
-- **Others:** Cucumber, Capybara, CI/CD, Git, Appium, Selenium, Postman, HTML, CSS
+Iniciei minha carreira em **Garantia de Qualidade de Software**, o que me deu sólida experiência em automação e testes (APIs, mobile e web). Hoje, utilizo esse background para desenvolver aplicações com uma **mentalidade de qualidade em primeiro lugar**.  
 
-I'm always eager to learn new technologies and take on challenging projects that push the boundaries of what's possible.
+Minha stack principal inclui:  
 
-<!-- GitHub Stats -->
+- **Linguagem:** Java  
+- **Frameworks e Ferramentas:** Spring Boot, JUnit, Maven, Git, Docker  
+- **Bancos de Dados:** Oracle SQL, MongoDB  
+- **Mensageria:** Kafka, RabbitMQ  
+- **Testes e Qualidade:** Selenium, Appium, Postman, Cucumber, Robot Framework  
+
+Estou sempre motivado a aprender novas tecnologias e enfrentar desafios que me façam crescer como desenvolvedor.  
+
+<!-- Estatísticas do GitHub -->
 <h2 align="center">
-  GitHub Stats
+  Estatísticas do GitHub
 </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leall675&show_icons=true&theme=dark" alt="GitHub Stats" style="height: 150px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leall675&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leall675&layout=compact&theme=dark" alt="Linguagens Mais Usadas" style="height: 150px;"/>
 </div>
 
-<!-- GitHub Icons -->
+<!-- Ícones do GitHub -->
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Matheus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"">
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+  <img align="center" alt="Matheus-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Matheus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
